@@ -22,7 +22,8 @@ A custom JavaScript plugin for Jellyfin that adds a device management panel to t
 
 ### Approve / Reject
 > Confirm or reject any device with one click. Status is saved server-side via Jellyfin's DisplayPreferences API.
-<img width="1440" height="900" alt="1" src="https://github.com/user-attachments/assets/00a64bdf-699b-4461-a104-03561aed529d" />
+<img width="1440" height="900" alt="all" src="https://github.com/user-attachments/assets/63576f22-7ec5-4251-9be0-70698cf40a2d" />
+
 
 ---
 
