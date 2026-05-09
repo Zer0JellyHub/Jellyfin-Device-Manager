@@ -15,28 +15,31 @@ A custom JavaScript plugin for Jellyfin that adds a device management panel to t
 
 ### Device Overview
 > All devices grouped by physical device + user. Unknown devices appear first.
+<img width="1440" height="784" alt="all" src="https://github.com/user-attachments/assets/0b09a4d7-695d-4fca-a64d-7023e594d315" />
 
-<img width="1440" height="900" alt="reject" src="https://github.com/user-attachments/assets/b569e4ce-db10-42b0-be91-d980f614bf01" />
 
 
 ---
 
 ### Approve / Reject
 > Confirm or reject any device with one click. Status is saved server-side via Jellyfin's DisplayPreferences API.
-<img width="1440" height="900" alt="all" src="https://github.com/user-attachments/assets/63576f22-7ec5-4251-9be0-70698cf40a2d" />
+<img width="1440" height="789" alt="rename" src="https://github.com/user-attachments/assets/d34c07e2-e6e4-4bd1-b959-c82b2e375516" />
+
 
 
 ---
 
 ### Rename a Device
 > Give any device a custom name (e.g. "Albin's iPhone"). The original name stays visible below.
-<img width="1440" height="900" alt="rename" src="https://github.com/user-attachments/assets/6ffd9241-4bd6-4c71-b06c-080416470ba4" />
+<img width="1440" height="776" alt="Bildschirmfoto 2026-05-09 um 22 57 44" src="https://github.com/user-attachments/assets/ce61561a-40d9-4b04-9620-b3b1678c4d5f" />
+
 
 ---
 
 ### Grouping Mode
 > Select multiple devices and group them under a custom name. Existing groups also get a checkbox so you can add devices directly to them.
-<img width="1440" height="900" alt="Groupe" src="https://github.com/user-attachments/assets/6a7e74d6-00d6-4f8c-ae44-620c8466bb8d" />
+<img width="1440" height="773" alt="Bildschirmfoto 2026-05-09 um 22 58 40" src="https://github.com/user-attachments/assets/19ea804d-ee2f-4878-9e99-a8c21c19d976" />
+
 
 ---
 
