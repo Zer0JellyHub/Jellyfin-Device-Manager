@@ -60,12 +60,12 @@ A custom JavaScript plugin for Jellyfin that adds a device management panel to t
 ## 🚀 Installation
 
 1. Open your Jellyfin instance and log in as **Administrator**
-2. Go to **Admin Dashboard → General** (Allgemein)
-3. Scroll down to **"Custom JavaScript"** (Benutzerdefiniertes JavaScript)
+2. Go to **Admin Dashboard
+3. Scroll down to **" JavaScript Injector"**
 4. Paste the entire contents of `jellyfin-device-manager.js`
 5. Click **Save** and reload the page
 
-> ⚠️ Requires admin access to install. The sidebar button only appears for administrators.
+> ⚠️ The sidebar button only appears for administrators.
 
 ---
 
@@ -115,15 +115,7 @@ Devices are grouped by `DeviceName + Username` — so "Browser" used by two diff
 ```
 jellyfin-device-manager.js   ← Single file, paste into Jellyfin Custom JS
 README.md                    ← This file
-screenshots/
-  sidebar.png
-  overview.png
-  approve-reject.png
-  rename.png
-  grouping.png
-  blocking.png
-  waiting.png
-  rejected.png
+
 ```
 
 ---
